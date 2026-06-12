@@ -64,7 +64,7 @@
 
 | 🏆 Project | 📝 Description | 🛠 Stack |
 |---|---|---|
-| [**SC Space**](scspace.app) | Your Workplace... For Everything :) | HTML · JS · CSS |
+| [**SC Space**](https://scspace.app/) | Your Workplace... For Everything :) | HTML · JS · CSS |
 | [**NorMSG**](https://simplified-games.github.io/normsg/) | A blazing-fast messaging platform, with games and group chats! | HTML · JS · CSS |
 | [**Simulation**] (Not Available to Public) | Metroidvania Game! | GDScript |
 | [**SimpleSpace**](https://simplified-games.github.io/app/) | My Website | HTML · JS · CSS |
