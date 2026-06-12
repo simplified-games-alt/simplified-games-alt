@@ -4,7 +4,7 @@
 
 <h1 align="center">Hey there, I'm Alex 👋</h1>
 
-<h3 align="center">Full-Stack Developer · Open-Source Enthusiast · Lifelong Learner</h3>
+<h3 align="center">High-School Developer · Open-Source Enjoyer · Lifelong Learner · Vibe Coder :(</h3>
 
 <p align="center">
   <a href="simplified-games.github.io/app"><img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
