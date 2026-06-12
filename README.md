@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (Some of these are lies... hehe...)
 
 **Languages**
 
